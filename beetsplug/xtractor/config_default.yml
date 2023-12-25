@@ -98,6 +98,30 @@ high_level_targets:
   mood_mirex_cluster_5:
     path: "highlevel.moods_mirex.all.Cluster5"
     type: float
+  genre_rosamerica_cla:
+    path: "highlevel.genre_rosamerica.all.cla"
+    type: float
+  genre_rosamerica_dan:
+    path: "highlevel.genre_rosamerica.all.dan"
+    type: float
+  genre_rosamerica_hip:
+    path: "highlevel.genre_rosamerica.all.hip"
+    type: float
+  genre_rosamerica_jaz:
+    path: "highlevel.genre_rosamerica.all.jaz"
+    type: float
+  genre_rosamerica_pop:
+    path: "highlevel.genre_rosamerica.all.pop"
+    type: float
+  genre_rosamerica_rhy:
+    path: "highlevel.genre_rosamerica.all.rhy"
+    type: float
+  genre_rosamerica_roc:
+    path: "highlevel.genre_rosamerica.all.roc"
+    type: float
+  genre_rosamerica_spe:
+    path: "highlevel.genre_rosamerica.all.spe"
+    type: float
 essentia_extractor: /your/path/to/streaming_extractor_music
 extractor_profile:
   outputFormat: json
